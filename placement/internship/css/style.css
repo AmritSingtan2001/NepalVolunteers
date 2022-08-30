@@ -1,0 +1,150 @@
+.slogan{
+	background-color:black;
+	color:white;
+	size:5px;
+	text-align:center;
+	height:30px;
+}
+.logo{
+	text-align: left;
+}
+
+.nav-item{
+	padding-left: 5px;
+	font-family: 'Times New Roman', Times, serif;
+	size: 50px;
+}
+ .card-body-text :hover{
+	background-color: black;
+}
+/* card effects */
+/* .card :hover{
+	background-color: black;
+	color: white;
+} */
+.media-content{
+	background-color: white;
+	
+}
+.service-text{
+	background-color: whitesmoke;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+}
+.service-text:hover{
+	background-color: black;
+	color:#fff;
+}
+.volunteet-section{
+	background-color:darkblue;
+	text-align: center;
+
+}
+.quote_sign-1{
+	background-color: white;
+	font-family: 'Courier New', Courier, monospace;
+	text-align: center;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 20px;
+	color: black;
+
+}
+
+.blog-posts module{
+	background-color: whitesmoke;
+}
+
+
+.textof{
+	color: whitesmoke;
+}
+
+.media12{
+	background-color: none;
+	margin-top: 10px;
+	border-radius: 10px;
+
+}
+/* 
+.card :hover {
+    
+    color: white;
+} */
+.footrsection{
+	background-color: #21566d;
+	
+	/* background-color:  #0d6efdc9; */
+}
+
+.testimonial-card .card-up {
+	height: 120px;
+	overflow: hidden;
+	border-top-left-radius: 0.25rem;
+	border-top-right-radius: 0.25rem;
+	}
+	
+	.testimonial-card .avatar {
+	width: 110px;
+	margin-top: -60px;
+	overflow: hidden;
+	border: 3px solid #fff;
+	border-radius: 50%;
+	}
+
+	.services{
+		margin-top: 10px;
+		padding-bottom: 10px;
+		text-align: center;
+		margin-bottom: 10px;
+		border-radius: 20px;
+		
+	}
+.card-body a :hover{
+	color:gray;
+}
+.card:hover{
+	cursor: pointer;
+	transform: scale(1.1);
+	transition: 1s;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+/* .card:hover .intro{
+	background-color: black;
+	height: 200px;
+	width: 240px;
+	border-radius: 10px;
+	color:white;
+} */
+.card:hover.p{
+	opacity: 1;
+	visibility: visible;
+}
+.card:hover .img {
+	transform: scale(1.1) rotate(-5dg);
+}
+.card{
+	overflow: hidden;
+}
+ul li a{
+	color: white;
+}
+ul li a:hover{
+	color: white;
+}.navbar .navbar-nav .nav-link:hover{
+	background-color: rgb(5, 5, 43);
+	color: black;
+}
+.dp1:hover .dm1{
+	display: block;
+}
+.dp1 .dm1{
+	display: none;
+}
+.scrollable{
+	height: 400px;
+	width: 300px;
+	overflow: scroll;
+}
